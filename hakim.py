@@ -11,5 +11,5 @@ print(a/10)
 # connection avec internet 
 print ('hakim')
 
-print('modif a partir github.com)'
+print('modif depui github.com)'
 
