@@ -8,3 +8,6 @@ print (a+b)
 
 print(a/10)
 
+# connection avec internet 
+print ('hakim')
+
